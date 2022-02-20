@@ -11,10 +11,6 @@ Features:
 - It has an audio click to emulate a mechanical feel, coz well... who doesn't love mechs?
 - It has a visibile feedback through the usage of Neopixels;
 
-STLs: for now only available via https://www.tinkercad.com/things/6VUNi9XEmPk-grand-jaban-elzing
-
-
 ## Todo:
 - include software battery measurement;
-- polish up;
-- produce STLs;
+- field test;
